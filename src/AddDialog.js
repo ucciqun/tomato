@@ -32,9 +32,9 @@ export const AddDialog = ({ onClose, open }) => {
     setItems([
       ...items,
       {
-        name: { item },
-        value: { count },
-        deadline: { limit },
+        name: item,
+        value: count,
+        deadline: limit.replace(/-/g, "/"),
       },
     ]);
     setCount(1);

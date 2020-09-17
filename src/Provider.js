@@ -9,17 +9,17 @@ export const Provider = ({ children }) => {
     {
       name: "とまと",
       value: 4,
-      deadline: "20/09/12",
+      deadline: "2020/09/12",
     },
     {
       name: "じゃがいも",
       value: 2,
-      deadline: "20/09/13",
+      deadline: "2020/09/13",
     },
     {
       name: "きゅうり",
       value: 8,
-      deadline: "20/09/24",
+      deadline: "2020/09/24",
     },
   ]);
   return (
