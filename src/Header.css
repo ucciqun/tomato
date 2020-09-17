@@ -1,0 +1,9 @@
+.header {
+  width: 100%;
+  background-color: #ee6352;
+  text-align: center;
+}
+.header > h1 {
+  color: white;
+  padding: 8px 0;
+}

@@ -1,0 +1,12 @@
+.MuiPaper-root {
+  width: 100%;
+  padding: 20px;
+}
+.addDialog__counter {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.addDialog__input {
+  margin-bottom: 16px !important;
+}
